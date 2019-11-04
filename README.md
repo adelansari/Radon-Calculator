@@ -8,17 +8,28 @@ The Radon Calculator software was designed in order to calculate the radon conce
 ## Computer Requirements:
 Microsoft Windows® Operating System for XP, Vista, Windows 7, Windows 8, and Windows 10.
 The softwate has the following files inside it:
-![Screenshot](images/1.png)
+
+<p align="center">
+  <![Image](images/1.png)>
+</p>
+
 
 In order to install the software, the user should double-click on the “setup” icon.
 The following windows will appear. By clicking on the “Install” button, Radon Calculator will be installed and a shortcut of the program will appear in the Desktop.
-![Screenshot](images/2.png)
+
+![Image](images/2.png)
 
 Below is what will open after the installation is complete:
-![Screenshot](images/3.png) 
+
+![Image](images/3.png) 
+Format: ![Alt Text](url)
+
 This is the main menu which asks the user to enter the username and password to be able to access the calculator form. 
 After entering the username and password correctly, the first windows will close and the calculator windows will show up.
-![Screenshot](images/4.png) 
+
+![Image](images/4.png) 
+Format: ![Alt Text](url)
+
 By inputting the required data and choosing the start date and end date, the software now is able to calculate the concentration of Radon gas after pushing the “Calculate” button. 
 Features:
 The developed software does not only perform calculation; it also shows an error windows if any. Here is a list of the errors messages it can show:

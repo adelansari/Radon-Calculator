@@ -43,4 +43,3 @@ The developed software does not only perform calculation; it also shows an error
 •	The timestamps must be in 24 hour format.
 •	The timestamps must be a period of time of 60 minutes.
 •	The input entered is not a numeric value.
-test line

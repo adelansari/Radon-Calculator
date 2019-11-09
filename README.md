@@ -13,7 +13,6 @@ The softwate has the following files inside it:
 <img src="images/1.png">
 </p>
 
-
 In order to install the software, the user should double-click on the “setup” icon.
 The following windows will appear. By clicking on the “Install” button, Radon Calculator will be installed and a shortcut of the program will appear in the Desktop.
 
